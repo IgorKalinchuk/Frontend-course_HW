@@ -1,6 +1,6 @@
-*{
-   margin; 0;
-   padding; 0;
+* {
+   margin: 0;
+   padding: 0;
 }
 html {
   background-color: white;
@@ -21,8 +21,9 @@ div {
   border: 1px solid #C7C8C9;
 }
 .box2 {
-  padding: 30px 50px 0px 50px;
-  line-height: 10px;
+  width: 420px;
+  height: 695px;
+  padding: 30px 50px 30px 50px;
   font-size: 17px;
 }
 ul {
@@ -30,11 +31,12 @@ ul {
   line-height: 30px;
 }
 h2 {
-  margin: 30px 50px;
+  margin: 30px 50px 20px;
   font-size: 23px;
 }
 p {
   padding: 0px 10px;
+  margin-bottom: 5px;
 }
 a {
   padding: 10px;
@@ -43,8 +45,9 @@ a {
   padding: 0px 10px 20px;
 }
 hr {
-  margin: 20px 0px 27px;
+  margin: 20px 0px;
 }
 img {
+  margin-bottom: 10px;
   padding: 0px 130px;
 }
